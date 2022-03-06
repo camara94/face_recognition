@@ -22,3 +22,5 @@ To do that we must use **Similarity function**
 ![image](images/6.png)
 
 ## Triplet Loss 
+
+![image](images/7.png)
