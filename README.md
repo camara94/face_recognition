@@ -12,3 +12,6 @@ In this project, will learn the concept to implement face recognition problem.
 To do that we must use **Similarity function**
 
 ![image](images/3.png)
+
+## Siamese network
+
