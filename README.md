@@ -8,3 +8,5 @@ In this project, will learn the concept to implement face recognition problem.
 ## One-shot Learning 
 
 ![image](images/2.png)
+
+To do that we must use **Similarity function**
