@@ -28,3 +28,5 @@ To do that we must use **Similarity function**
 ## Training Triplet Loss
 
 ![image](images/10.png)
+
+## Problème 
