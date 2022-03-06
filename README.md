@@ -15,4 +15,4 @@ To do that we must use **Similarity function**
 
 ## Siamese network
 
-![images](images/4.png)
+![images](images/5.png)
