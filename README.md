@@ -16,3 +16,7 @@ To do that we must use **Similarity function**
 ## Siamese network
 
 ![images](images/5.png)
+
+## Goal Of Learning
+
+![image](images/6.png)
