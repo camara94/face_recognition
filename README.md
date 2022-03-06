@@ -10,3 +10,5 @@ In this project, will learn the concept to implement face recognition problem.
 ![image](images/2.png)
 
 To do that we must use **Similarity function**
+
+![image](images/3.png)
