@@ -20,3 +20,5 @@ To do that we must use **Similarity function**
 ## Goal Of Learning
 
 ![image](images/6.png)
+
+## Triplet Loss 
