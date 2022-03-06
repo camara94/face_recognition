@@ -29,4 +29,6 @@ To do that we must use **Similarity function**
 
 ![image](images/10.png)
 
-## Problème 
+## Problem 
+
+![image](images/11.png)
